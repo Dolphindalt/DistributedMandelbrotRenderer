@@ -1,0 +1,12 @@
+a.out
+*.o
+*.bmp
+*.txt
+*.bin
+.vscode/
+*.aux
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.log
+*.sty
